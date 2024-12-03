@@ -9,11 +9,6 @@ public class InputView {
         return Console.readLine();
     }
 
-    public static String inputLottoNumbers() {
-        System.out.println("로또 번호를 입력해 주세요.");
-        return Console.readLine();
-    }
-
     public static String inputWinningNumbers() {
         System.out.println("당첨 번호를 입력해 주세요.");
         return Console.readLine();
